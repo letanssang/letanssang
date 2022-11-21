@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @letanssang
-- 👀 I’m interested in Mobile Developer
 - 🌱 I’m currently learning Computer Engineering at University of Engineering and Techology - Vietnam National University
 
 <!---
